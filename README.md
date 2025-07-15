@@ -9,7 +9,7 @@
 - 💻 What I Know
     - **HTML** | **CSS** | **JS** (Web basics)  
     - **Java**
-    - Currently learning **MERN**
+    - Currently learning **MERN & Spring Boot**
 
  
 - 🕹️ Stuff I’m Into
