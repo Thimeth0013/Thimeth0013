@@ -27,8 +27,6 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
-
-  <!-- MERN Stack Group -->
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40"/>
@@ -43,11 +41,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" alt="php" width="40" height="40"/>
-
-  <!-- Databases and Version Control -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
-
-  <!-- Design Software Group -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
 </p>
