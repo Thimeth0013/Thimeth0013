@@ -4,13 +4,12 @@
 
 <h3>Undergrad in Software Engineering from Sri Lanka  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3><br>
 
-- <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> I’m currently learning **MERN**
+- <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> I’m currently learning **React Native**
 
 - 💻 What I Know
-    - **HTML** | **CSS** | **JS** (Web basics)  
+    - **HTML** | **CSS** | **JS** (Web basics)
+    - **MERN**
     - **Java**
-    - Currently learning **MERN & Spring Boot**
-
  
 - 🕹️ Stuff I’m Into
     - Designing frontends  
@@ -36,7 +35,7 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> &nbsp;
 
   <!-- Other Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
