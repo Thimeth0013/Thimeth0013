@@ -4,7 +4,7 @@
 
 <h3>Undergrad in Software Engineering from Sri Lanka  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3><br>
 
-- 🌐 Check out my work: **[My Portfolio]([https://thimeth0013.github.io/thimeth-sathmika/])**
+Check out my work: **[My Portfolio](https://thimeth0013.github.io/thimeth-sathmika/)**
 
 - <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> I’m currently learning **React Native**
 
