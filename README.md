@@ -1,4 +1,4 @@
-<img width="730" height="285" alt="image" src="https://github.com/user-attachments/assets/967fbc4c-0f68-4236-8015-36320f1333ca" /><img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=28&weight=500&lines=Hi,+I'm+Thimeth+Sathmika;Welcome+to+my+GitHub+Profile!" />
 
