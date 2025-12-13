@@ -1,10 +1,8 @@
 <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=28&weight=500&lines=Hi,+I'm+Thimeth+Sathmika;Welcome+to+my+GitHub+Profile!" />
-
 <h3>Undergrad in Software Engineering from Sri Lanka  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3><br>
 
-- Checkout my Portfolio: https://thimeth0013.github.io/thimeth-sathmika/
+**[Live Portfolio](https://thimeth0013.github.io/thimeth-sathmika/)**
 
 - <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> I’m currently learning **React Native**
 
